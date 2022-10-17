@@ -1,0 +1,13 @@
+Interactive Dashboard with Python & Streamlit
+
+Download and install the following to run the app:
+
+openpyxl==3.0.10
+plotly==4.14.3
+pandas==1.4.3
+streamlit==1.12.0
+
+To run the app locally, open windows terminal on the folder the app has been saved in, then input "streamlit run [file name].py" on the windows terminal.
+
+To stop the running the app, press ctrl c. 
+
